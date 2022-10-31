@@ -1,0 +1,64 @@
+.first{
+    background-image: url(img.jpg);
+    border-radius: 20px;
+}
+i{
+    font-size: 30px;
+    color: white !important;
+}
+a{
+    color: white !important;
+}
+.prl{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.mess{
+    margin-top: 32px;
+    margin-left: 20px;
+}
+.ij{
+    font-size: 12px !important;
+}
+.ic{
+    margin-left: 33px;
+}
+.ci{
+    margin-left: 70px;
+}
+.pl{
+    padding-left: 138px;
+}
+.llp{
+    margin-left: 25px;
+}
+.second{
+    background-color: lightskyblue;
+    border-radius: 20px;
+    padding: 1px;
+}
+.second1{
+    background-color: white;
+    border-radius: 21px;
+}
+.dot{
+    color: black !important;
+}
+img{
+    height: 43px;
+}
+.six{
+    background-color: skyblue;
+
+    border-radius: 9px;
+}
+.six1{
+    font-size: larger;
+    padding: 6px;
+}
+.fon{
+    font-size: 12px;
+}
+.colo{
+    color: white;
+}
